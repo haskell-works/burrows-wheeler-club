@@ -4,6 +4,10 @@
 
 * http://www.mi.fu-berlin.de/wiki/pub/ABI/FMIndexThesis/FMIndex.pdf
 
+## Secondary papers
+
+* http://people.unipmn.it/manzini/papers/focs00draft.pdf
+
 ## Related papers
 
 * https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
