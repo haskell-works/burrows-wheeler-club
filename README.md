@@ -1,5 +1,9 @@
 # burrows-wheeler-club
 
+This is a study-group for the Burrows-Wheeler Transform.  The goal is to help each other
+study how the Burrows-Wheeler Transform works, realise how it can be useful and investigate
+how it might be implemented in the Haskell programming language.
+
 ## Main Paper
 
 * http://www.mi.fu-berlin.de/wiki/pub/ABI/FMIndexThesis/FMIndex.pdf
